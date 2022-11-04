@@ -1,10 +1,14 @@
 body {
-    padding: 50px;
+    padding: 0px;
     font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
     color: #00B7FF;
+}
+
+main > .container {
+    padding: 60px 15px 0;
 }
 
 .bd-placeholder-img {
@@ -19,8 +23,4 @@ a {
     .bd-placeholder-img-lg {
         font-size: 3.5rem;
     }
-}
-
-main > .container {
-    padding: 60px 15px 0;
 }
